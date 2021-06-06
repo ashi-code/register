@@ -1,0 +1,53 @@
+body
+{
+    background-color: rgb(76, 40, 136);
+    font-family: 'Times New Roman', Times, serif;
+}
+.div1
+{
+    width: 500px;
+    background-color: rgb(187, 168, 204);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position:absolute;
+   border-radius:20px;
+    padding: 20px;
+    
+}
+form
+{
+    margin: 2px;
+}
+.input-field
+{
+    width: 300px;
+    height: 30px;
+    margin-top: 20px;
+    padding-left: 10px;
+    border: 1px solid rgb(100, 35, 4);
+    border-radius: 14px;
+    
+}
+.text-field
+{
+    height: 75px;
+    width: 300px;
+    padding-left: 10px;
+    border: 1px solid rgb(100, 35, 4);
+    border-radius: 14px;
+}
+.btn
+{
+    border-radius: 30px;
+    color: rgb(7, 248, 107);
+    padding: 10px;
+    background-color: rgb(76, 40, 136);
+    width: 400px;
+    height: 40px;
+}
+h1
+{
+    color: rgb(63, 21, 1);
+    
+}
