@@ -1,0 +1,77 @@
+/* style for body*/
+body
+{
+    background-image: url(n2.jpg);
+    font-family: 'Times New Roman', Times, serif;
+}
+/* style for main div */
+.div1
+{
+    width: 500px;
+    background-color: rgba(86, 85, 87, 0.808);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position:absolute;
+   border-radius:20px;
+    padding: 20px;
+    
+}
+/* style for form*/
+form
+{
+    margin: 2px;
+}
+/* style for input field*/
+.input-field
+{
+    width: 300px;
+    height: 30px;
+    margin-top: 20px;
+    padding-left: 10px;
+    border: 1px solid rgb(100, 35, 4);
+    border-radius: 14px;
+    
+}
+/* style for textarea*/
+.text-field
+{
+    height: 75px;
+    width: 300px;
+    padding-left: 10px;
+    border: 1px solid rgb(100, 35, 4);
+    border-radius: 14px;
+}
+/* style for button*/
+.btn
+{
+    border-radius: 30px;
+    color:#fff;
+    padding: 10px;
+    background-color: rgb(7, 6, 8);
+    width: 400px;
+    height: 40px;
+}
+/* style for h1*/
+h1
+{
+    color: rgb(63, 21, 1);
+    text-align: center;
+    
+}
+/* style for field div*/
+.field{
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+    vertical-align: middle;
+}
+/*style for label div*/
+.label{
+    display: inline-block;
+    text-align: right;
+    width: 20%;
+    padding: 5px;
+    margin-top: 10px;
+    vertical-align: top;
+}
